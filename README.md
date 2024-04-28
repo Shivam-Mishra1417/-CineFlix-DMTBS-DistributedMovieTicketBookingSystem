@@ -27,4 +27,4 @@ booking system that is highly available, reliable, and capable of withstanding
 software failures or other issues.
 
 
-For a full understanding of design and floe read here : [(https://github.com/Shivam-Mishra1417/-CineFlix-DMTBS-DistributedMovieTicketBookingSystem/blob/main/DSD_Project_Design.pdf)]
+For a full understanding of design and flow read here : [(https://github.com/Shivam-Mishra1417/-CineFlix-DMTBS-DistributedMovieTicketBookingSystem/blob/main/DSD_Project_Design.pdf)]
